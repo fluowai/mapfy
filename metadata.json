@@ -1,0 +1,7 @@
+{
+  "name": "MAPFY - SaaS de Gestão e Prospecção Google Meu Negócio",
+  "description": "Plataforma profissional para agências e consultores gerenciarem, auditarem e prospectarem perfis do Google Business Profile com IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
